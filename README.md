@@ -7,3 +7,5 @@ This repository contains two (2) files:
 * Jupyter notebook is a skeleton for your implementation.
 
 Find assignment details on Canvas.
+
+Using pair plot and heat map to figure out the relationship between factors with life ladder
