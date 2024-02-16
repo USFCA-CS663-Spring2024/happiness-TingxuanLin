@@ -9,3 +9,7 @@ This repository contains two (2) files:
 Find assignment details on Canvas.
 
 Using pair plot and heat map to figure out the relationship between factors with life ladder
+
+reference:
+* https://stackoverflow.com/questions/64149670/how-to-compare-data-from-the-same-column-in-a-dataframe
+* https://stackoverflow.com/questions/58113970/how-to-compare-a-pandas-dataframe-with-an-updated-version-of-it
